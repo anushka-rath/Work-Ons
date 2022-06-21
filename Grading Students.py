@@ -1,4 +1,4 @@
-/* HackerLand University has the following grading policy:
+''' HackerLand University has the following grading policy:
 
    1. Every student receives a grade in the inclusive range from 1 to 100.
    2. Any grade less than 30 is a failing grade. 
@@ -13,11 +13,11 @@ Examples
   1. grade = 84 round to85 (85 - 84 is less than 3)
   2. grade = 29 do not round (result is less than 40)
   3. grade = do not round (60 - 57 is 3 or higher) 
-  */
+  '''
   
-  /* Passed through all test cases */
+  #Passed through all test cases */
   
-  /* Python */
+  #Python
   
   def gradingStudents(grades):
     # Write your code here
