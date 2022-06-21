@@ -15,7 +15,7 @@ Examples
   3. grade = do not round (60 - 57 is 3 or higher) 
   '''
   
-  #Passed through all test cases */
+  #Passed through all test cases
   
   #Python
   
